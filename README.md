@@ -1,6 +1,4 @@
 # Lixetron's shelter plugins
-If you're reading this you should either change this README,
-or you should run `npx degit uwu/shelter-template shelter-plugins`!
 
 ## Getting started
 You should be using [pnpm](https://pnpm.io/) with this template ideally.
