@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "debug:screenshareQualityFix": "lune dev ./plugins/screenshareQualityFix",
+    "build": "lune ci"
+  },
   "devDependencies": {
     "@uwu/lune": "^1.2.1",
     "@uwu/shelter-defs": "^1.1.0"
