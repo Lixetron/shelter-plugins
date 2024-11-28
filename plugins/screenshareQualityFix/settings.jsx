@@ -1,3 +1,9 @@
+/*
+ * This file includes code derived from the Legcord project
+ * (https://github.com/Legcord/Legcord), originally created by the Legcord team.
+ * Licensed under the Open Software License v3.0 (OSLv3).
+ */
+
 const {
     plugin: {store},
     ui: {TextBox, Header, HeaderTags}
