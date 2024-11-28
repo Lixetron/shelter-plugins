@@ -1,8 +1,11 @@
-/*
- * This file includes code derived from the Legcord project
- * (https://github.com/Legcord/Legcord), originally created by the Legcord team.
- * Licensed under the Open Software License v3.0 (OSLv3).
+/**
+ * Portions of this file are based on code from the Legcord project.
+ * Source: https://github.com/Legcord/Legcord/blob/dev/src/shelter/screenshareQualityFix/index.js
+ * 
+ * License: Open Software License 3.0 (OSLv3)
+ * Terms: https://opensource.org/license/osl-3-0-php
  */
+
 
 const {
     util: {log},
