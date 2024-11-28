@@ -39,5 +39,5 @@ If this worked, you will be able to install the plugin via `https://<username>.g
 This project is primarily licensed under the MIT License.  
 However, it includes portions of code from other projects, such as:
 
-- **Legcord project**, licensed under the Open Software License 3.0 (OSL-3.0).  
+- **[Legcord project](https://github.com/Legcord/Legcord)**, licensed under the Open Software License 3.0 (OSL-3.0).  
   See [LICENSE](./LICENSE.md) for full details.
